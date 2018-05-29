@@ -1,0 +1,13 @@
+db:
+
+basic_info->2 tb
+..stu_info{epc:,unatd:,discp:}
+..fixed_info{epc:,x:,y:}
+
+rfid_output->2 tb 
+..unatd_rec{epc:}
+..stu_loc{fixed_epc:,stu_epc:}
+
+
+
+
