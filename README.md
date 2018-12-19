@@ -1,3 +1,2 @@
 # 3s
-a part of source code for 3s
-代码和算法都写的太辣鸡。。。
+<del>算法过于硬盒辣鸡。。。已报废</del>
